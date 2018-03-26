@@ -4,6 +4,7 @@ A well constructed summary of the findings from a course on financial investment
 This repository contains 3 jupyter python notebooks.
 
 The notebook - 
+
 'Finance' contains the steps to calculate :
 - the risk of a security
 - the covariance and correlation between stocks
